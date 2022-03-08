@@ -1,5 +1,7 @@
 # https://riggswebdev.github.io/FirstReactApp/
 
+This is the first React app that I've made and also the first thing I've deployed to Github Pages. Just a test run for some of the new things I've been learning! 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
