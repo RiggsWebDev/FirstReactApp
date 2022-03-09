@@ -3,6 +3,7 @@ import TodoList from './TodoList'
 import { v4 as uuidv4 } from 'uuid'
 
 function App() {
+  const now = new Date()
   const [todos, setTodos] = useState([])
   const todoNameRef = useRef()
   const LOCAL_STORAGE_KEY = 'todoApp.todos'
